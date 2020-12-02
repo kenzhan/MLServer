@@ -1,4 +1,5 @@
-# Home ML Server DIY (Ubuntu 20.4 + CUDA 10.1 + TensorFlow 2.3 + JupyterNotebook)
+# Home ML Server DIY 
+# (Ubuntu 20.4 + CUDA 10.1 + TensorFlow 2.3 + JupyterNotebook)
 
 This is the steps to setup private ML server at home.  
 
