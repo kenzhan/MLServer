@@ -1,8 +1,16 @@
-## Welcome to GitHub Pages
+# Home ML Server DIY (Ubuntu 20.4 + CUDA 10.1 + TensorFlow 2.3 + JupyterNotebook)
 
-You can use the [editor on GitHub](https://github.com/kenzhan/MLServer/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is the steps to setup private ML server at home.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Hardware config
+## Software config
+
+### Ubuntu LTS
+### Server Setup
+### CUDA
+### Python setup
+### JupyterNotebook Setup
+
 
 ### Markdown
 
