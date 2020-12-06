@@ -167,6 +167,11 @@ $ sudo chmod a+r /usr/local/cuda/include/cudnn*.h /usr/local/cuda/lib64/libcudnn
 * Setup virtual environemnt for ML service and Jupyter Notebook
 
 
+### install sklearn
+
+```
+sudo apt-get install python3-sklearn python3-sklearn-lib
+```
 
 ### TensorFlow
 
