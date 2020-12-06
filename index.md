@@ -24,6 +24,9 @@ Some RAID configed under BIOS with so called [Fake RAID](https://help.ubuntu.com
 [How To Create RAID Arrays with mdadm on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-create-raid-arrays-with-mdadm-on-ubuntu-16-04)
 
 ```
+
+lsblk -o NAME,SIZE,FSTYPE,TYPE,MOUNTPOINT
+
 sudo apt-get install mdadm
 
 sudo mdadm --create --verbose /dev/md0 --level 0 --raid-devices=2 /dev/sdb /dev/sdc
