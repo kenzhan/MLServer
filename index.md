@@ -20,6 +20,9 @@ If you want the latest CUDA 11, cuDNN 8.0 with local build from TensorFlow sourc
 
 Some RAID configed under BIOS with so called [Fake RAID](https://help.ubuntu.com/community/FakeRaidHowto). This is to use software RAID for RAID-0 type instead.
 
+
+[How To Create RAID Arrays with mdadm on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-create-raid-arrays-with-mdadm-on-ubuntu-16-04)
+
 ```
 sudo apt-get install mdadm
 
