@@ -203,6 +203,10 @@ Setup Jupter Notebook by instruction provided by [Setup Jupter Notebook server a
 Change ip address binding to allow remote access (Jupyter turn the remote access off by default) 
 
 ```
+#  Generate config file under {home}/.jupyter/jupyter_notebook_config.py
+$ jupyter notebook --generate-config
+
+# Modify config file
 $ nano .jupyter/jupyter_notebook_config.py
 ```
 
